@@ -1,8 +1,9 @@
-### Hi, I'm Derek 👋
+## Hi, I'm Derek 👋
 
-Hi and welcome to my Github page. I'm a full stack web developer with a passion for new technologies and 
+Hi and welcome to my Github page. I'm a full stack web developer with a passion for new technologies.
 
-Here are some ideas to get you started:
+### My portfolio
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Next.js Angular
@@ -15,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/wolfwood87">
   <img src="https://github-readme-stats.vercel.app/api?username=wolfwood87&show_icons=true&hide_border=true" />
 </a>
 
 ---
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/wolfwood87">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfwood87&layout=compact" />
 </a>
