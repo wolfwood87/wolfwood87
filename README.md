@@ -19,7 +19,6 @@ Hi and welcome to my Github page. I'm a full stack web developer with a passion 
 <a src="https://www.npmjs.com"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e706d2e706e67.png"/></a>
 <a src="https://code.visualstudio.com"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(3).png"/></a>
 <a src="https://git-scm.com"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(2).png"/></a>
-<a src="github.com"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(3).png"/></a>
 <a src="https://material-ui.com"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(5).png"/></a>
 ### My Stats
 
