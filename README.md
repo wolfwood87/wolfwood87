@@ -6,11 +6,11 @@ Hi and welcome to my Github page. I'm a full stack web developer with a passion 
 <p>Check out my <a href="https://eager-sinoussi-70fd0c.netlify.app">Portfolio</a></p>
 
 - 🌱 I’m currently learning
-<a src="https://nextjs.org"><img src="https://commons.wikimedia.org/wiki/File:Nextjs-logo.svg"/></a> <a src="https://angular.io"><img src="https://worldvectorlogo.com/download/angular-icon.svg"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://nextjs.org"><img height = "50" src="https://commons.wikimedia.org/wiki/File:Nextjs-logo.svg"/></a> <a src="https://angular.io"><img height = "50" src="https://worldvectorlogo.com/download/angular-icon.svg"/></a>
+<a src="https://www.typescriptlang.org/"><img height = "50" src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 
 ### My Languages & Tools
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.javascript.com/"><img height = "50" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.python.org/"><img height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
