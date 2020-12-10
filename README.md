@@ -5,7 +5,7 @@ Hi and welcome to my Github page. I'm a full stack web developer with a passion 
 ### My portfolio
 <p>Check out my <a href="https://eager-sinoussi-70fd0c.netlify.app">Portfolio</a></p>
 
-- 🌱 I’m currently learning
+### Currently learning
 <a src="https://nextjs.org"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(4).png"/></a> <a src="https://angular.io"><img height = "50" src="https://github.com/wolfwood87/logos/blob/main/logos%20(1).svg"/></a>
 <a src="https://www.typescriptlang.org/"><img height = "50" src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 
